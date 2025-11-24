@@ -1,2 +1,5 @@
-# MCS_DEMO
-demo and notes on Monte Carlo Sampling Technics
+# Demos of Monte Carlo techniques (preparations for seminar at CMU, 2023)
+- MH sampling
+- Gibbs sampling
+- HMC 
+- etc.
